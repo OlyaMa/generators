@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/hh7ap0943pwy56ti?svg=true)](https://ci.appveyor.com/project/OlyaMa/generators)
